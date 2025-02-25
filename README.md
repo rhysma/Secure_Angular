@@ -26,6 +26,6 @@ If you wish to follow along during the workshop, you will need to have the appli
 Once you have completed the above steps you can make sure your application is prepared for the workshop by doing the following:
 1. Execute the Web API. Use the Swagger interface to test the Get Recipes endpoint and check you get a successful response
 2. Execute the Angular App found in the recipes-app/src folder
-3. Check the app can access the API.
+3. Check the app can access the API. The Carrot Cake recipe should show on the main page.
      1. Get all the recipes va the Angular App
-     2. Add a recipe via the Angular App
+     2. Add a recipe via the Angular App. Check it shows on the page AND in Swagger
